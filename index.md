@@ -48,3 +48,9 @@ is one OKF bundle.
 ## Meta
 
 * [meta/](meta/index.md) - How this bundle is curated, edited, and distributed.
+
+## Decision framework
+
+Xynocast makes decisions and strategizes according to the learnings of the
+**StreetGTO guide** (https://github.com/sumantagogoi/streetgto-guide) — a
+framework for decision-making under uncertainty.
