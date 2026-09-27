@@ -43,6 +43,10 @@ is one OKF bundle.
 
 * [services/](services/index.md) - What we deliver for clients.
 
+## Our AI story
+
+* [narratives/](narratives/index.md) - How our AI solutions fit together, in one read.
+
 ## Work
 
 * [work/](work/index.md) - Selected case studies.
