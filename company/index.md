@@ -6,5 +6,5 @@
 
 ## Brand assets
 
-* [Logo (colour text)](logo%20tranparent.png) - For white/light backgrounds; text is in colour.
+* [Logo (colour text)](xynocast-colour-transparent.png) - For white/light backgrounds; text is in colour.
 * [Logo (white text)](xynocast-white-transparent.png) - For dark backgrounds; text is in white.

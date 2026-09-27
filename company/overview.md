@@ -5,7 +5,7 @@ description: Who Xynocast is — a bootstrapped, multi-vertical technology group
 tags:
 - company
 - overview
-timestamp: '2026-08-03'
+timestamp: '2026-09-27'
 status: active
 ---
 
@@ -25,12 +25,12 @@ Services Pvt Ltd (XCSPL)** and **Xynocast Fibernet Pvt Ltd**.
 ## What sets us apart
 
 Everything in our portfolio is **in-hand, working technology** — not pitch
-decks. A live conservation platform serving real field data. A multi-agent
-RAG platform with its own LLM proxy gateway, built and operated end to end.
-A vertical ERP product in active rollout. A healthcare digital-twin
-platform taking shape. An AI-native hosting platform reimagining how
-websites get built and maintained. We ship, then we keep operating what we
-ship.
+decks. A live conservation platform serving real field data. LLMAgentO,
+our AI platform with its own model gateway, built and operated end to end.
+Trelvia AI, which lets staff chat with the ERP or CRM they already use.
+Sitehub, where website owners change their site by asking for it. A
+healthcare digital-twin platform taking shape. We ship, then we keep
+operating what we ship.
 
 Being bootstrapped isn't a footnote — it's the reason our roadmap answers
 to clients and to the market, not to a fundraising calendar.

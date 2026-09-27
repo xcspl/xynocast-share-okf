@@ -5,7 +5,7 @@ description: A selection of Xynocast engagements and outcomes across service are
 tags:
 - work
 - case-studies
-timestamp: '2026-08-03'
+timestamp: '2026-09-27'
 status: active
 ---
 
@@ -62,5 +62,6 @@ kept out of scope here; the results speak for themselves.
 - **EarthTeam** — a live conservation platform: mobile, web, and
   geospatial API, built and operated end to end. See
   [Products](/products/overview.md).
-- **Multi-agent RAG platform + LLM proxy** — a multi-tenant AI-agent
-  platform with hybrid search, running on Cloudflare Workers.
+- **LLMAgentO** — our multi-tenant AI platform: agents with hybrid search
+  over their own knowledge, and a model gateway with failover, running on
+  Cloudflare Workers. Trelvia AI and Sitehub are built on it.

@@ -5,7 +5,7 @@ description: From a wireless ISP in 2013 to a multi-vertical technology group �
 tags:
 - company
 - history
-timestamp: '2026-08-03'
+timestamp: '2026-09-27'
 status: active
 ---
 
@@ -26,9 +26,9 @@ and fibre, and the software and consultancy practice that would later
 become **Xynocast Consultancy Services Pvt Ltd (XCSPL)**.
 
 The years since have added machine learning, AR/VR, and enterprise
-consultancy to the mix, and most recently a multi-agent LLM/RAG platform
-and an AI-native hosting product — the current edge of where we're taking
-the group.
+consultancy to the mix, and most recently **LLMAgentO**, our AI platform,
+and the products built on it — **Trelvia AI** and **Sitehub**. That's the
+current edge of where we're taking the group.
 
 Through all of it, one constant: we've grown on client revenue and
 reinvestment, never outside capital. Every product in our line today

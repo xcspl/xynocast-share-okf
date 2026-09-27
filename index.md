@@ -1,6 +1,12 @@
 ---
 okf_version: "0.2"
+house_version: "0.3"
 bundle: xynocast-share-okf
+handling:
+  - Read this index before opening any doc in this bundle.
+  - Navigate by index entries; never glob the tree.
+  - A write to any directory updates that directory's index.md in the same commit.
+  - Full rules live in okf-guide.md in the workspace registry (Playbook at its bundle root).
 ---
 
 # Xynocast — Public-Facing Knowledge Base
@@ -31,7 +37,7 @@ is one OKF bundle.
 
 ## Products
 
-* [products/](products/index.md) - What we've built and operate.
+* [products/](products/index.md) - What we've built and operate — LLMAgentO, Trelvia AI, EarthTeam, XynoForms and more.
 
 ## Services
 

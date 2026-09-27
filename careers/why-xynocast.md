@@ -5,7 +5,7 @@ description: What it's like building at Xynocast — for prospective employees.
 tags:
 - careers
 - culture
-timestamp: '2026-08-03'
+timestamp: '2026-09-27'
 status: active
 ---
 
@@ -13,8 +13,8 @@ status: active
 
 We build technology that has to work, because we operate what we build.
 The engineer who ships the conservation platform's geospatial API also
-watches it run in production. The team behind our LLM proxy gateway is the
-same team fielding it for real client traffic. If you want your work to
+watches it run in production. The team behind LLMAgentO's model gateway is
+the same team fielding it for real client traffic. If you want your work to
 disappear into a backlog after code review, this isn't the place — if you
 want to see it running six months later and still own it, it is.
 
