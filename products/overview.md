@@ -12,8 +12,9 @@ status: active
 
 ## How our AI products fit together
 
-We turn AI into work that businesses can use. The big AI labs make the
-intelligence and sell it as tokens — think of them as the power plant.
+We turn AI into work that businesses can use. The big AI labs — like
+Anthropic, OpenAI and DeepSeek — make the intelligence and sell it as
+tokens. Think of them as the power plant. We're independent of all of them.
 Xynocast builds the two layers above them:
 
 - **LLMAgentO** is the grid: it makes that power usable and manageable.
