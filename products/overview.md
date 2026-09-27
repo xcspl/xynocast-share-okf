@@ -51,7 +51,7 @@ the system for them. Three products, each taking over a job:
 - **AI Customer Support** — answers from the business's own documents,
   ticket triage and routing, follow-ups, and a clean handoff to a person.
 
-Formerly CalaMatrix. (trelvia.co)
+Formerly CalaMatrix. Pricing on enquiry. (trelvia.co)
 
 **EarthTeam** — a conservation platform we built and operate end to end:
 mobile app, web, and a geospatial API, powering real field verification

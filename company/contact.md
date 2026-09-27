@@ -18,6 +18,7 @@ Assam, India
 **Website:** xynocast.com
 **Email:** info@xynocast.com
 **Phone / WhatsApp:** +91 99025 90589
+**Phone:** +91 69000 99888
 
 **Working hours:** Monday–Friday, 09:00–23:00 IST; Sunday, 09:00–16:00 IST;
 closed Saturday.

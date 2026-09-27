@@ -1,7 +1,7 @@
 ---
 type: Reference
 title: Services
-description: Xynocast's service lines — development, DevOps, ERP, AI, hosting, and connectivity.
+description: Xynocast's service lines — safe foundations for AI-built apps, development, DevOps, ERP, AI, hosting, and connectivity.
 tags:
 - services
 timestamp: '2026-09-27'
@@ -9,6 +9,33 @@ status: active
 ---
 
 # Services
+
+## Safe foundations for AI-built apps
+
+Anyone can build an app with a coding agent now. That part got easy.
+
+The parts that don't show up in the demo didn't. The open admin route. The
+database with no backup. The query that's fine for ten users and falls over
+at ten thousand. The cloud bill that quietly triples. A coding agent builds
+what you ask for — it usually won't ask about those.
+
+That's our side of the table. We come from hardware, networking, backend and
+DevOps; we run an ISP, servers and databases ourselves. So we take the layer
+underneath your app:
+
+- **Security** — a review of what was built, and hardening where it's weak.
+- **Backups and redundancy** — planned around getting your data back, not
+  just copying it somewhere.
+- **Data safety** — so one bad migration or delete isn't the end of the
+  story.
+- **Monitoring** — so we hear about a problem before your customers do.
+- **Performance and cost** — so the app survives growth and the bill stays
+  predictable.
+- **Hosting, and [LLMAgentO](/products/overview.md) for the AI itself.**
+
+You build the app, or your agent does. We make it safe to run. Nothing is
+zero-risk; our job is to make problems rarer, catch them early, and keep
+your data recoverable.
 
 ## Application & web development
 

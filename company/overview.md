@@ -32,6 +32,11 @@ Sitehub, where website owners change their site by asking for it. A
 healthcare digital-twin platform taking shape. We ship, then we keep
 operating what we ship.
 
+That background is also why clients bring us the apps they built with
+coding agents. Hardware, networking, backend and DevOps are where we
+started, so we're the ones who make an AI-built app safe to run: secured,
+backed up, monitored, and costed. See [Services](/services/overview.md).
+
 Being bootstrapped isn't a footnote — it's the reason our roadmap answers
 to clients and to the market, not to a fundraising calendar.
 
