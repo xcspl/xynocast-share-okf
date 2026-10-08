@@ -11,8 +11,9 @@ status: active
 
 # Case studies
 
-A selection of engagements across our service areas. Client identities are
-kept out of scope here; the results speak for themselves.
+A selection of engagements across our service areas. Most client
+identities are kept out; we name a client only where the work is already
+public. The results speak for themselves.
 
 ## Application development & digital marketing
 
@@ -20,6 +21,10 @@ kept out of scope here; the results speak for themselves.
 - **Coffee chain social media** — hyperlocal, geofenced ad campaigns
 - **Serious game for safety training** — a gamified industrial-safety
   simulation built in Unity/Unreal, improving training retention
+- **Tezpur Mahila Samiti** — a new website for a women's organisation in
+  Tezpur, Assam, with more than a century of history: its story and photo
+  archive brought onto a fast, search-friendly static site
+  (tezpurmahilasamiti.org)
 
 ## ERP & CRM
 
@@ -61,7 +66,7 @@ kept out of scope here; the results speak for themselves.
 
 - **EarthTeam** — a live conservation platform: mobile, web, and
   geospatial API, which we build and operate end to end under contract for
-  the organisation that owns it.
+  Freeland, which owns it.
 - **LLMAgentO** — our multi-tenant AI platform: agents with hybrid search
   over their own knowledge, and a model gateway with failover, running on
   Cloudflare Workers. Trelvia AI and Sitehub are built on it.

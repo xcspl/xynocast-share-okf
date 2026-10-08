@@ -47,7 +47,7 @@ with payment-gateway integration and GIS/map-based applications.
 ## NGO & conservation technology
 
 Full-platform delivery anchored by **EarthTeam**, a conservation platform
-we build and operate under contract for the organisation that owns it —
+we build and operate under contract for Freeland, which owns it —
 mobile, web, and geospatial API, with gamified field verification,
 contributor progression, and an AI assistant with voice on LLMAgentO. See
 [Work](/work/case-studies.md).

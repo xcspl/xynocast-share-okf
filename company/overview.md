@@ -25,7 +25,7 @@ Services Pvt Ltd (XCSPL)** and **Xynocast Fibernet Pvt Ltd**.
 ## What sets us apart
 
 Everything in our portfolio is **in-hand, working technology** — not pitch
-decks. A live conservation platform we build and run for a client, serving
+decks. A live conservation platform we build and run for Freeland, serving
 real field data. LLMAgentO,
 our AI platform with its own model gateway, built and operated end to end.
 Trelvia AI, which lets staff chat with the ERP or CRM they already use.
