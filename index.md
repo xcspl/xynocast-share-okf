@@ -37,7 +37,7 @@ is one OKF bundle.
 
 ## Products
 
-* [products/](products/index.md) - What we've built and operate — LLMAgentO, Trelvia AI, EarthTeam, XynoForms and more.
+* [products/](products/index.md) - What we own and operate — LLMAgentO, Trelvia AI, Sitehub, XynoForms and more.
 
 ## Services
 

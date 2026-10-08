@@ -4,7 +4,7 @@ title: Services
 description: Xynocast's service lines — safe foundations for AI-built apps, development, DevOps, ERP, AI, hosting, and connectivity.
 tags:
 - services
-timestamp: '2026-09-27'
+timestamp: '2026-10-09'
 status: active
 ---
 
@@ -46,9 +46,11 @@ with payment-gateway integration and GIS/map-based applications.
 
 ## NGO & conservation technology
 
-Full-platform delivery anchored by our own [EarthTeam](/products/overview.md)
-build — mobile, web, and geospatial API, with gamified field verification
-and contributor progression.
+Full-platform delivery anchored by **EarthTeam**, a conservation platform
+we build and operate under contract for the organisation that owns it —
+mobile, web, and geospatial API, with gamified field verification,
+contributor progression, and an AI assistant with voice on LLMAgentO. See
+[Work](/work/case-studies.md).
 
 ## Web hosting & domain services
 
@@ -90,6 +92,8 @@ workshops for product teams.
 ## Connectivity (Xynocast Fibernet)
 
 Home and office broadband, IP CCTV, captive portals, network management,
-and ISP consultation for regional connectivity providers.
+and ISP consultation for regional connectivity providers. Subscriber
+logins, online recharge and billing run on our own platform, built
+in-house on Cloudflare.
 
 See how these come together for clients in [Work](/work/index.md).

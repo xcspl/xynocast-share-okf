@@ -1,10 +1,10 @@
 ---
 type: Reference
 title: Products
-description: Products Xynocast has built and operates — LLMAgentO, Trelvia AI, EarthTeam, XynoForms and more — live, available and in development.
+description: Products Xynocast owns and operates — LLMAgentO, Trelvia AI, Sitehub, XynoForms and more — live, available and in development, plus our open-source tools.
 tags:
 - products
-timestamp: '2026-09-27'
+timestamp: '2026-10-09'
 status: active
 ---
 
@@ -54,16 +54,13 @@ the system for them. Three products, each taking over a job:
 
 Formerly CalaMatrix. Pricing on enquiry. (trelvia.co)
 
-**EarthTeam** — a conservation platform we built and operate end to end:
-mobile app, web, and a geospatial API, powering real field verification
-work for conservation programs.
-
 **XynoForms** — forms and outbound mail for websites and apps
 (forms.xynocast.com). A site posts its forms to XynoForms instead of
 running its own form backend; forms can also be hosted and shared as a
 link. Submissions land in one dashboard with spam protection, and mail
 goes out through the client's own mailbox, with backup senders if one
-fails.
+fails. Each site or app gets its own mail token, with its own sender and
+daily limit, so one can't affect another.
 
 **TheAndamans.in** — a travel and tourism platform for the Andaman Islands.
 
@@ -86,6 +83,11 @@ medical memory for each patient.
 
 **StreetGTO** — game theory for real life, without the math
 (streetgto.com). It's also the decision framework we run the company on.
+
+**image-classify** — open source (MIT). Point it at a folder of images and
+a vision model describes each one, producing a searchable catalogue that
+people and AI agents can use without opening the images
+(github.com/xcspl/image-classify).
 
 See what these products power for clients in [Services](/services/index.md)
 and how we've delivered them in [Work](/work/index.md).
